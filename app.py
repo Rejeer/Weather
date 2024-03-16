@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_KEY="4d830391c6f133d6beabee9edb20b663"
+API_KEY="XXXXXXXXXXXXXXXXXXXX"
 
 
 def convert_to_celcius(temperature_in_kelvin):
